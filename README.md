@@ -19,7 +19,7 @@ A simple and visually appealing to-do list web application using HTML, CSS, and 
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/todo-list-app.git
+    git clone https://github.com/Ronak332211/to-do-list.git
     ```
 
 
